@@ -1,0 +1,1 @@
+cmd_drivers/media/video/tegra/mediaserver/built-in.o :=  /opt/toolchains/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/media/video/tegra/mediaserver/built-in.o drivers/media/video/tegra/mediaserver/tegra_mediaserver.o 

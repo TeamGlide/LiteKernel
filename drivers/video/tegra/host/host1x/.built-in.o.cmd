@@ -1,0 +1,1 @@
+cmd_drivers/video/tegra/host/host1x/built-in.o :=  /opt/toolchains/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/video/tegra/host/host1x/built-in.o drivers/video/tegra/host/host1x/nvhost-host1x.o 
